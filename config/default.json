@@ -1,0 +1,5 @@
+{
+    
+    "mongoURI":
+    "mongodb+srv://livraria:livraria123@livrarias.s19cbrg.mongodb.net/?retryWrites=true&w=majority"
+}
